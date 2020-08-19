@@ -31,7 +31,7 @@
 (defconst org-gtasks-resource-url "https://www.googleapis.com/auth/tasks"
   "URL used to request access to tasks resources.")
 
-(defconst org-gtasks-default-url "https://www.googleapis.com/tasks/v1")
+(defconst org-gtasks-default-url "https://tasks.googleapis.com/tasks/v1")
 
 (defvar org-gtasks-accounts nil)
 
